@@ -1,0 +1,25 @@
+node_modules
+dist
+.DS_Store
+server/public
+vite.config.ts.*
+*.tar.gz
+
+# Replit-specific (remove these files for local development)
+.replit
+replit.nix
+.upm
+.cache
+.local
+attached_assets
+
+# Environment
+.env
+.env.local
+.env.production
+
+# IDE
+.idea
+.vscode
+*.swp
+*.swo
